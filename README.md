@@ -12,7 +12,7 @@
 
 ## 🌟 Overview
 
-The **To-Do List** is a practical, Tkinter-based graphical desktop task manager built as part of the **BiStartX** Python learning curriculum. Users can type a task name into the input field and manage their personal task list through four dedicated operations — **Add**, **Delete**, **Clear All**, and **View** — all with real-time feedback via a scrollable Listbox and popup dialogs.
+The **To-Do List** is a practical, Tkinter-based graphical desktop task manager built as part of Python learning curriculum. Users can type a task name into the input field and manage their personal task list through four dedicated operations — **Add**, **Delete**, **Clear All**, and **View** — all with real-time feedback via a scrollable Listbox and popup dialogs.
 
 The app maintains two synchronized data structures — a Python `list` for in-memory state and a Tkinter `Listbox` for visual display — demonstrating key programming patterns like CRUD operations, list indexing, selection handling, and state synchronization between model and view.
 
@@ -156,7 +156,7 @@ Type a task in the input field and click **Add Task** to begin!
 
 ---
 
-## 🧠 Learning Objectives (BiStartX Week 4)
+## 🧠 Learning Objectives
 
 > ✅ **Objective**: Master Python data structures — particularly lists — and understand how to perform CRUD (Create, Read, Update, Delete) operations programmatically while keeping a GUI display synchronized with in-memory state.
 
