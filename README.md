@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✅ To-Do List — Python Desktop GUI Task Manager
 
 > A feature-rich, dark-themed desktop task management application built with Python and Tkinter, supporting full CRUD operations — Add, Delete, Clear All, and View tasks — through an intuitive multi-button GUI.
@@ -7,6 +9,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg?style=flat-square&logo=python)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6F00.svg?style=flat-square)](https://docs.python.org/3/library/tkinter.html)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
+</div>
 
 ---
 
@@ -180,7 +184,7 @@ Type a task in the input field and click **Add Task** to begin!
 ```
 MIT License
 
-Copyright (c) To Do List---2026 AnasQ2003
+Copyright (c) To Do List --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -213,8 +217,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 Made with 💧 and a lot of ☕
 
 **⭐ If you found this useful, please star the repository!**
-
-*Stay hydrated. Stay healthy.*
 
 </div>
 
